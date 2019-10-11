@@ -1,0 +1,27 @@
+{
+  "name": "easy-worker",
+  "version": "0.0.1",
+  "description": "an promise style & lightweight wrapper for worker-threads",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/luochen1990/easy-worker.git"
+  },
+  "keywords": [
+    "web-worker",
+    "multi-thread",
+    "promise"
+  ],
+  "author": "luochen1990@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/luochen1990/easy-worker/issues"
+  },
+  "homepage": "https://github.com/luochen1990/easy-worker#readme",
+  "dependencies": {
+    "lazy-list": "^0.9.0"
+  }
+}
